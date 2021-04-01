@@ -2,15 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: fictional-tribble
-  subscribe: Apigee
-  archerID: 1234
-  domain: cargo
-  criticality: vital
   annotations:
     backstage.io/kubernetes-id: fictional-tribble
 spec: 
   lifecycle: experimental
   owner: "Fidel Coria"
-  averageResponseTime: 100ms
-  maxResponseTime: 200ms
   type: service
