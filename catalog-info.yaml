@@ -12,7 +12,6 @@ metadata:
 spec: 
   lifecycle: experimental
   owner: "Fidel Coria"
-  squad: eSOA
   averageResponseTime: 100ms
   maxResponseTime: 200ms
   type: service
