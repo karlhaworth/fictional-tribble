@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: fictional-tribble
   annotations:
+    github.com/project-slug: 'AAInternal/tnt-tower'
     backstage.io/kubernetes-id: fictional-tribble
   links:
     - url: https://wiki.aa.com/bin/view/Runway%20Developer%20Platform/
