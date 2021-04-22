@@ -9,6 +9,12 @@ metadata:
     - url: https://wiki.aa.com/bin/view/Runway%20Developer%20Platform/
       title: Wiki
       icon: info
+    - url: https://americanairlines.slack.com/archives/C0112F1JKNG
+      title: Slack
+      icon: message
+    - url: https://github.com/AAInternal/runway/issues
+      title: Backlog
+      icon: warning
 spec: 
   lifecycle: experimental
   owner: "Fidel Coria"
